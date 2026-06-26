@@ -843,7 +843,7 @@
   <div class="contact-links">
     <a href="mailto:velenemaheni@gmail.com" class="contact-pill">✉ velenemaheni@gmail.com</a>
     <a href="tel:+27817361666" class="contact-pill">✆ +27 81 736 1666</a>
-    <a href="https://linkedin.com/in/velenemaheni" target="_blank" class="contact-pill">in linkedin.com/in/velenemaheni</a>
+    <a href="https://linkedin.com/in/velenemaheni" target="_blank" class="contact-pill">  linkedin.com/in/velenemaheni</a>
   </div>
 </section>
 
